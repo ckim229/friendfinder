@@ -7,7 +7,7 @@
 var friends = [
     {
         "name":"Kenny",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://images-na.ssl-images-amazon.com/images/I/41Xjd6BovHL._SY355_.jpg",
         "scores":[
            5,
            1,
@@ -23,7 +23,7 @@ var friends = [
         },
     {
     "name":"Josh",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqcqXqWN8P2ju_87pu0viSxCRvJtM4J-1mb4rJxKouYN0rtZy5w",
     "scores":[
        5,
        1,
@@ -39,7 +39,7 @@ var friends = [
   },
   {
     "name":"Steven",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://www.biography.com/.image/t_share/MTE5NTU2MzE2Mzc0MDA5MzU1/steven-spielberg-9490621-1-402.jpg",
     "scores":[
        2,
        1,
@@ -55,7 +55,7 @@ var friends = [
   },
   {
     "name":"Erica",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://famousdude.com/images/erica-durance-01.jpg",
     "scores":[
        5,
        1,
@@ -71,7 +71,7 @@ var friends = [
   },
   {
     "name":"Sarah",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sarah_Silverman_DNC_July_2016.jpg/220px-Sarah_Silverman_DNC_July_2016.jpg",
     "scores":[
        5,
        1,
@@ -87,7 +87,7 @@ var friends = [
   },
   {
     "name":"Mary",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/dms/image/C4D03AQHVHqblbXOtrg/profile-displayphoto-shrink_200_200/0?e=1529197200&v=beta&t=_pOEaPCqQatF7VAxmRUB1FRNsvk30wAgxdd_nlaIvo8",
     "scores":[
        5,
        1,
@@ -103,7 +103,7 @@ var friends = [
   },
   {
     "name":"Allison",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/dms/image/C5603AQFltBaUrSVTag/profile-displayphoto-shrink_200_200/0?e=1530082800&v=beta&t=6s4qH2aVbbeUKs9ydDFPgAOyw_uV15JJw35s2QymIns",
     "scores":[
        5,
        1,
@@ -119,7 +119,7 @@ var friends = [
   },
   {
     "name":"Larry",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAZ-AAAAJGQwMzk3NDczLTcyYzctNDZlMC1hODZlLTZlNDRjMGE4NDljMQ.jpg",
     "scores":[
        5,
        1,
@@ -135,7 +135,7 @@ var friends = [
   },
   {
     "name":"Samuel",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/dms/image/C4D03AQGu7TeK-TCvOA/profile-displayphoto-shrink_200_200/0?e=1528974000&v=beta&t=7jVOcfReN2NJKBjl01Bp3iWu5pS0J5H1AwUgLZ-eEVk",
     "scores":[
        5,
        1,
@@ -151,7 +151,7 @@ var friends = [
   },
   {
     "name":"John",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.licdn.com/dms/image/C4D03AQH5Yd8_6YB-SQ/profile-displayphoto-shrink_200_200/0?e=1529215200&v=beta&t=H8CpLO6L_MWvUk8S3GMAiSuQJBlX9PlwgOlCYVTMeBQ",
     "scores":[
        5,
        1,
